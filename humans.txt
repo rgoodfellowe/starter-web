@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rob Goodfellowe     rgoodfellowe@gmail.com      @rgoodfellowe
 
 # THANKS
 
